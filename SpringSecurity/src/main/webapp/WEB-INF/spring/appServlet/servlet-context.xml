@@ -30,7 +30,7 @@
 	</beans:bean>
 	
 	<context:component-scan base-package="com.skbh.robot" />
-	
+	<!-- <context:component-scan base-package="com.skbh.robot" /> -->
 	
 	
 </beans:beans>
